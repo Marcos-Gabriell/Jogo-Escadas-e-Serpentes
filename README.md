@@ -4,7 +4,7 @@ Este é o repositório do projeto "Escadas e Serpentes" desenvolvido durante um 
 
 ## Linguagens e ferramentas  usadas
 <div >
-     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+      <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
       <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div><br>
 

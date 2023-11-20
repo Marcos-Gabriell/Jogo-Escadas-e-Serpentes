@@ -1,7 +1,6 @@
 # Jogo de Escadas e Serpentes - Projeto de Expansão de Conhecimentos Eclipse
 
 
-
 Este é o repositório do projeto "Escadas e Serpentes" desenvolvido durante um curso focado no uso avançado do Eclipse IDE e na ampliação dos conhecimentos em Java.
 
 ## Linguagens e ferramentas  usadas

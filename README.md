@@ -8,7 +8,6 @@ Este é o repositório do projeto "Escadas e Serpentes" desenvolvido durante um 
       <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div><br>
 
-
 ## Descrição
 
 O projeto é uma implementação do clássico jogo "Escadas e Serpentes". Ele foi desenvolvido como parte do curso de expansão de conhecimentos sobre o Eclipse IDE e busca demonstrar a aplicação de conceitos avançados de programação em Java, além de explorar funcionalidades avançadas da IDE.

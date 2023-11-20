@@ -9,7 +9,6 @@ Este é o repositório do projeto "Escadas e Serpentes" desenvolvido durante um 
 </div><br>
 
 
-
 ## Descrição
 
 O projeto é uma implementação do clássico jogo "Escadas e Serpentes". Ele foi desenvolvido como parte do curso de expansão de conhecimentos sobre o Eclipse IDE e busca demonstrar a aplicação de conceitos avançados de programação em Java, além de explorar funcionalidades avançadas da IDE.
